@@ -14,7 +14,7 @@ body {
     column-gap: 10px;
     padding-bottom: 60px;
     padding-top: 50px;
-    grid-template-columns: 25% 5%;
+    grid-template-columns: 42% 5%;
     justify-content: center;
     margin-top: 10px;
 }
